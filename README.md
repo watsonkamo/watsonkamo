@@ -3,11 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=watsonkamo&label=Profile%20views&color=0e75b6&style=flat" alt="watsonkamo" /> </p>
 
+<div align="center">
 - 🔭 I am a student of **42Tokyo**
 
 - 🌱 I’m currently learning **C, swift, JS**
 
 - 💬 Ask me about **Design , copywriting**
+</div>
 
 <p align="center">
 </p>
