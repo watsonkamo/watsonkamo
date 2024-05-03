@@ -27,8 +27,9 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=watsonkamo&show_icons=true&locale=en" alt="watsonkamo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=watsonkamo&show_icons=true&locale=en&layout=compact" alt="watsonkamo" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=watsonkamo&" alt="watsonkamo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=watsonkamo&show_icons=true&locale=en&layout=compact" alt="watsonkamo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=watsonkamo&show_icons=true&locale=en" alt="watsonkamo" /></p>
+
