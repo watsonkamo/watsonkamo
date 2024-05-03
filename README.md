@@ -31,5 +31,5 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=watsonkamo&" alt="watsonkamo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=watsonkamo&show_icons=true&locale=en" alt="watsonkamo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=watsonkamo&show_icons=true&locale=en" alt="watsonkamo" /></p>
 
