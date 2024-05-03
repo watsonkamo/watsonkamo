@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm watson</h1>
-<h3 align="center">A art student from Japan</h3>
+<h3 align="center">An art student from Japan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=watsonkamo&label=Profile%20views&color=0e75b6&style=flat" alt="watsonkamo" /> </p>
 
